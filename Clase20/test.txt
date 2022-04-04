@@ -1,0 +1,1022 @@
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,ZNH IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,TLP IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,RTW IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,XBB IpPublicaDelServidor:80/searchipn
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,VVL IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,LWF IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,AGJ IpPublicaDelServidor:80/searchipn
+curl -v --header X-Debug:true --data 1757600,XRX IpPublicaDelServidor:80/searchipn
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: IpPublicaDelServidor
+* Closing connection 0
+curl: (6) Could not resolve host: IpPublicaDelServidor
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: IpPublicaDelServidor
+* Closing connection 0
+curl: (6) Could not resolve host: IpPublicaDelServidor
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: IpPublicaDelServidor
+* Closing connection 0
+curl: (6) Could not resolve host: IpPublicaDelServidor
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: IpPublicaDelServidor
+* Closing connection 0
+curl: (6) Could not resolve host: IpPublicaDelServidor
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,NCN 34.123.121.119:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,QMN 34.123.121.119:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,BGN 34.123.121.119:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,DUW 34.123.121.119:8080/searchipn
+*   Trying 34.123.121.119:8080...
+*   Trying 34.123.121.119:8080...
+*   Trying 34.123.121.119:8080...
+*   Trying 34.123.121.119:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.121.119 (34.123.121.119) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.121.119 (34.123.121.119) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 34.123.121.119:8080
+> Host: 34.123.121.119:8080
+> User-Agent: curl/7.74.0
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> Content-Type: application/x-www-form-urlencoded
+> 
+> 
+} [11 bytes data]
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.121.119 (34.123.121.119) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.121.119 (34.123.121.119) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 34.123.121.119:8080
+> Host: 34.123.121.119:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> User-Agent: curl/7.74.0
+> Content-Type: application/x-www-form-urlencoded
+> 
+> Accept: */*
+} [11 bytes data]
+> X-Debug:true
+* upload completely sent off: 11 out of 11 bytes
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 04:58:29 GMT
+< X-debug-info: La operacion tomo 335706297 nanosegundos
+< Content-length: 104
+< 
+{ [104 bytes data]
+
+100   115  100   104  100    11    212     22 --:--:-- --:--:-- --:--:--   235
+* Connection #0 to host 34.123.121.119 left intact
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 04:58:30 GMT
+< X-debug-info: La operacion tomo 494929485 nanosegundos
+< Content-length: 105
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 04:58:30 GMT
+< X-debug-info: La operacion tomo 493236992 nanosegundos
+< Content-length: 105
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 04:58:30 GMT
+< X-debug-info: La operacion tomo 481158448 nanosegundos
+< Content-length: 104
+< 
+
+  9   116    0     0  100    11      0     18 --:--:-- --:--:-- --:--:--    18{ [105 bytes data]
+
+100   116  100   105  100    11    164     17 --:--:-- --:--:-- --:--:--   181
+* Connection #0 to host 34.123.121.119 left intact
+  9   116    0     0  100    11      0     18 --:--:-- --:--:-- --:--:--    18{ [105 bytes data]
+
+100   116  100   105  100    11    163     17 --:--:-- --:--:-- --:--:--   180
+* Connection #0 to host 34.123.121.119 left intact
+  9   115    0     0  100    11      0     18 --:--:-- --:--:-- --:--:--    18{ [104 bytes data]
+
+100   115  100   104  100    11    159     16 --:--:-- --:--:-- --:--:--   176
+* Connection #0 to host 34.123.121.119 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,LYO 34.71.133.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,GAQ 34.71.133.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,DIL 34.71.133.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,LIG 34.71.133.155:8080/searchipn
+*   Trying 34.71.133.155:8080...
+*   Trying 34.71.133.155:8080...
+*   Trying 34.71.133.155:8080...
+*   Trying 34.71.133.155:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.71.133.155 (34.71.133.155) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.71.133.155 (34.71.133.155) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.71.133.155 (34.71.133.155) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 34.71.133.155:8080
+> POST /searchipn HTTP/1.1
+> User-Agent: curl/7.74.0
+> Accept: */*
+> Host: 34.71.133.155:8080
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.71.133.155 (34.71.133.155) port 8080 (#0)
+> X-Debug:true
+> Host: 34.71.133.155:8080
+> Content-Length: 11
+> POST /searchipn HTTP/1.1
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Host: 34.71.133.155:8080
+> Content-Type: application/x-www-form-urlencoded
+> User-Agent: curl/7.74.0
+> 
+> User-Agent: curl/7.74.0
+> Content-Type: application/x-www-form-urlencoded
+> Accept: */*
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+> Accept: */*
+> X-Debug:true
+> 
+> Content-Length: 11
+> X-Debug:true
+> Content-Type: application/x-www-form-urlencoded
+} [11 bytes data]
+> 
+> Content-Length: 11
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* upload completely sent off: 11 out of 11 bytes
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:01 GMT
+< X-debug-info: La operacion tomo 520802800 nanosegundos
+< Content-length: 104
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:01 GMT
+< X-debug-info: La operacion tomo 610529914 nanosegundos
+< Content-length: 104
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:01 GMT
+< X-debug-info: La operacion tomo 532903983 nanosegundos
+< Content-length: 105
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:01 GMT
+< X-debug-info: La operacion tomo 532597822 nanosegundos
+< Content-length: 104
+< 
+
+  9   115    0     0  100    11      0     13 --:--:-- --:--:-- --:--:--    13{ [104 bytes data]
+
+100   115  100   104  100    11    118     12 --:--:-- --:--:-- --:--:--   130
+* Connection #0 to host 34.71.133.155 left intact
+  9   115    0     0  100    11      0     13 --:--:-- --:--:-- --:--:--    13{ [104 bytes data]
+
+100   115  100   104  100    11    118     12 --:--:-- --:--:-- --:--:--   130
+* Connection #0 to host 34.71.133.155 left intact
+  9   116    0     0  100    11      0     13 --:--:-- --:--:-- --:--:--    13{ [105 bytes data]
+
+100   116  100   105  100    11    119     12 --:--:-- --:--:-- --:--:--   131
+* Connection #0 to host 34.71.133.155 left intact
+  9   115    0     0  100    11      0     13 --:--:-- --:--:-- --:--:--    13{ [104 bytes data]
+
+100   115  100   104  100    11    117     12 --:--:-- --:--:-- --:--:--   130
+* Connection #0 to host 34.71.133.155 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,NMU 34.134.228.170:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,LKJ 34.134.228.170:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,CRC 34.134.228.170:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,LMN 34.134.228.170:8080/searchipn
+*   Trying 34.134.228.170:8080...
+*   Trying 34.134.228.170:8080...
+*   Trying 34.134.228.170:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+*   Trying 34.134.228.170:8080...
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.134.228.170 (34.134.228.170) port 8080 (#0)
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.134.228.170 (34.134.228.170) port 8080 (#0)
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.134.228.170 (34.134.228.170) port 8080 (#0)
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0> POST /searchipn HTTP/1.1
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0> POST /searchipn HTTP/1.1
+> Host: 34.134.228.170:8080
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0> POST /searchipn HTTP/1.1
+> User-Agent: curl/7.74.0
+> Host: 34.134.228.170:8080
+> Accept: */*
+> Host: 34.134.228.170:8080
+> X-Debug:true
+> Content-Length: 11
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.134.228.170 (34.134.228.170) port 8080 (#0)
+
+> User-Agent: curl/7.74.0
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> User-Agent: curl/7.74.0
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0> POST /searchipn HTTP/1.1
+> Host: 34.134.228.170:8080
+> Accept: */*
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Accept: */*
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> X-Debug:true
+* upload completely sent off: 11 out of 11 bytes
+> X-Debug:true
+> Content-Length: 11
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> Content-Type: application/x-www-form-urlencoded
+> 
+> 
+} [11 bytes data]
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* upload completely sent off: 11 out of 11 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:56 GMT
+< X-debug-info: La operacion tomo 323300607 nanosegundos
+< Content-length: 105
+< 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:56 GMT
+< X-debug-info: La operacion tomo 328204967 nanosegundos
+< Content-length: 104
+< 
+* Mark bundle as not supporting multiuse
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:10:56 GMT
+< Date: Mon, 28 Mar 2022 05:10:56 GMT
+< X-debug-info: La operacion tomo 327975977 nanosegundos
+< X-debug-info: La operacion tomo 324522050 nanosegundos
+< Content-length: 104
+< Content-length: 104
+< 
+< 
+{ [105 bytes data]
+
+100   116  100   105  100    11    181     18 --:--:-- --:--:-- --:--:--   200
+* Connection #0 to host 34.134.228.170 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    179     18 --:--:-- --:--:-- --:--:--   197
+* Connection #0 to host 34.134.228.170 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    177     18 --:--:-- --:--:-- --:--:--   195
+* Connection #0 to host 34.134.228.170 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    177     18 --:--:-- --:--:-- --:--:--   195
+* Connection #0 to host 34.134.228.170 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,VMR 34.70.193.20:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,DAZ 34.70.193.20:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,LEW 34.70.193.20:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,VBH 34.70.193.20:8080/searchipn
+*   Trying 34.70.193.20:8080...
+*   Trying 34.70.193.20:8080...
+*   Trying 34.70.193.20:8080...
+*   Trying 34.70.193.20:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.70.193.20 (34.70.193.20) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> Host: 34.70.193.20:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.70.193.20 (34.70.193.20) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.70.193.20 (34.70.193.20) port 8080 (#0)
+> Host: 34.70.193.20:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> POST /searchipn HTTP/1.1
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> Host: 34.70.193.20:8080
+* upload completely sent off: 11 out of 11 bytes
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.70.193.20 (34.70.193.20) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> Host: 34.70.193.20:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:25 GMT
+< X-debug-info: La operacion tomo 723787382 nanosegundos
+< Content-length: 104
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:25 GMT
+< X-debug-info: La operacion tomo 711699326 nanosegundos
+< Content-length: 105
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:25 GMT
+< X-debug-info: La operacion tomo 791397237 nanosegundos
+< Content-length: 105
+< 
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:25 GMT
+< X-debug-info: La operacion tomo 790335772 nanosegundos
+< Content-length: 105
+< 
+
+  9   115    0     0  100    11      0     10  0:00:01  0:00:01 --:--:--    10{ [104 bytes data]
+
+100   115  100   104  100    11     98     10  0:00:01  0:00:01 --:--:--   108
+* Connection #0 to host 34.70.193.20 left intact
+  9   116    0     0  100    11      0     10  0:00:01  0:00:01 --:--:--    10{ [105 bytes data]
+
+100   116  100   105  100    11     98     10  0:00:01  0:00:01 --:--:--   109
+* Connection #0 to host 34.70.193.20 left intact
+  9   116    0     0  100    11      0     10  0:00:01  0:00:01 --:--:--    10{ [105 bytes data]
+
+100   116  100   105  100    11     98     10  0:00:01  0:00:01 --:--:--   108
+* Connection #0 to host 34.70.193.20 left intact
+  9   116    0     0  100    11      0     10  0:00:01  0:00:01 --:--:--    10{ [105 bytes data]
+
+100   116  100   105  100    11     98     10  0:00:01  0:00:01 --:--:--   108
+* Connection #0 to host 34.70.193.20 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,RLT 34.123.248.177:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,THQ 34.123.248.177:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,KNY 34.123.248.177:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,KDD 34.123.248.177:8080/searchipn
+*   Trying 34.123.248.177:8080...
+*   Trying 34.123.248.177:8080...
+*   Trying 34.123.248.177:8080...
+*   Trying 34.123.248.177:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.248.177 (34.123.248.177) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.248.177 (34.123.248.177) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.248.177 (34.123.248.177) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.123.248.177 (34.123.248.177) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 34.123.248.177:8080
+> Host: 34.123.248.177:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> POST /searchipn HTTP/1.1
+> Content-Type: application/x-www-form-urlencoded
+> 
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Host: 34.123.248.177:8080
+> Content-Type: application/x-www-form-urlencoded
+} [11 bytes data]
+> Host: 34.123.248.177:8080
+* upload completely sent off: 11 out of 11 bytes
+> 
+} [11 bytes data]
+> User-Agent: curl/7.74.0
+* upload completely sent off: 11 out of 11 bytes
+> User-Agent: curl/7.74.0
+> Accept: */*
+> Accept: */*
+> X-Debug:true
+> X-Debug:true
+> Content-Length: 11
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+> Content-Type: application/x-www-form-urlencoded
+} [11 bytes data]
+> 
+* upload completely sent off: 11 out of 11 bytes
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+
+
+
+
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:53 GMT
+< X-debug-info: La operacion tomo 507106071 nanosegundos
+< Content-length: 104
+< 
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:11:53 GMT
+< Date: Mon, 28 Mar 2022 05:11:53 GMT
+< HTTP/1.1 200 OK
+< X-debug-info: La operacion tomo 494323102 nanosegundos
+< X-debug-info: La operacion tomo 525568604 nanosegundos
+< Content-length: 105
+< Date: Mon, 28 Mar 2022 05:11:53 GMT
+< 
+< Content-length: 105
+< 
+< X-debug-info: La operacion tomo 508938570 nanosegundos
+< Content-length: 105
+< 
+{ [104 bytes data]
+
+100   115  100   104  100    11    136     14 --:--:-- --:--:-- --:--:--   150
+* Connection #0 to host 34.123.248.177 left intact
+{ [105 bytes data]
+
+{ [105 bytes data]
+
+{ [105 bytes data]
+
+100   116  100   105  100    11    137     14 --:--:-- --:--:-- --:--:--   151
+100   116  100   105  100    11    137     14 --:--:-- --:--:-- --:--:--   151
+100   116  100   105  100    11    137     14 --:--:-- --:--:-- --:--:--   151
+* Connection #0 to host 34.123.248.177 left intact
+* Connection #0 to host 34.123.248.177 left intact
+* Connection #0 to host 34.123.248.177 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,KJZ 35.188.25.196:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,VAL 35.188.25.196:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,JPG 35.188.25.196:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,MNA 35.188.25.196:8080/searchipn
+*   Trying 35.188.25.196:8080...
+*   Trying 35.188.25.196:8080...
+*   Trying 35.188.25.196:8080...
+*   Trying 35.188.25.196:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.188.25.196 (35.188.25.196) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.188.25.196 (35.188.25.196) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.188.25.196 (35.188.25.196) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.188.25.196 (35.188.25.196) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 35.188.25.196:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> POST /searchipn HTTP/1.1
+> Host: 35.188.25.196:8080
+> Host: 35.188.25.196:8080
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> Host: 35.188.25.196:8080
+* upload completely sent off: 11 out of 11 bytes
+> User-Agent: curl/7.74.0
+> User-Agent: curl/7.74.0
+> Accept: */*
+> User-Agent: curl/7.74.0
+> X-Debug:true
+> Accept: */*
+> Content-Length: 11
+> Accept: */*
+> Content-Type: application/x-www-form-urlencoded
+> X-Debug:true
+> 
+> X-Debug:true
+} [11 bytes data]
+> Content-Length: 11
+* upload completely sent off: 11 out of 11 bytes
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* upload completely sent off: 11 out of 11 bytes
+
+
+
+
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:19 GMT
+< Date: Mon, 28 Mar 2022 05:12:19 GMT
+< X-debug-info: La operacion tomo 512133962 nanosegundos
+< X-debug-info: La operacion tomo 511722434 nanosegundos
+< Content-length: 105
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< Content-length: 105
+< 
+< HTTP/1.1 200 OK
+< 
+< Date: Mon, 28 Mar 2022 05:12:19 GMT
+< X-debug-info: La operacion tomo 531629426 nanosegundos
+< Content-length: 104
+< 
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:19 GMT
+< X-debug-info: La operacion tomo 514758642 nanosegundos
+< Content-length: 105
+< 
+{ [105 bytes data]
+{ [104 bytes data]
+
+
+100   115  100   104  100    11    134     14 --:--:-- --:--:-- --:--:--   148
+{ [105 bytes data]
+
+* Connection #0 to host 35.188.25.196 left intact
+100   116  100   105  100    11    135     14 --:--:-- --:--:-- --:--:--   149
+100   116  100   105  100    11    135     14 --:--:-- --:--:-- --:--:--   149
+* Connection #0 to host 35.188.25.196 left intact
+* Connection #0 to host 35.188.25.196 left intact
+{ [105 bytes data]
+
+100   116  100   105  100    11    135     14 --:--:-- --:--:-- --:--:--   149
+* Connection #0 to host 35.188.25.196 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,BYE 34.67.183.68:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,YUJ 34.67.183.68:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,BIC 34.67.183.68:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,TUI 34.67.183.68:8080/searchipn
+*   Trying 34.67.183.68:8080...
+*   Trying 34.67.183.68:8080...
+*   Trying 34.67.183.68:8080...
+*   Trying 34.67.183.68:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.67.183.68 (34.67.183.68) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> Host: 34.67.183.68:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.67.183.68 (34.67.183.68) port 8080 (#0)
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> POST /searchipn HTTP/1.1
+* upload completely sent off: 11 out of 11 bytes
+> Host: 34.67.183.68:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.67.183.68 (34.67.183.68) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.67.183.68 (34.67.183.68) port 8080 (#0)
+> Host: 34.67.183.68:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> POST /searchipn HTTP/1.1
+> Content-Type: application/x-www-form-urlencoded
+> Host: 34.67.183.68:8080
+> 
+> User-Agent: curl/7.74.0
+} [11 bytes data]
+> Accept: */*
+* upload completely sent off: 11 out of 11 bytes
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+
+
+
+
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:44 GMT
+< X-debug-info: La operacion tomo 666343450 nanosegundos
+< Content-length: 104
+< 
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:44 GMT
+< X-debug-info: La operacion tomo 664159603 nanosegundos
+< Content-length: 105
+< 
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:44 GMT
+< X-debug-info: La operacion tomo 686309166 nanosegundos
+< Content-length: 105
+< 
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:12:44 GMT
+< X-debug-info: La operacion tomo 675534728 nanosegundos
+< Content-length: 105
+< 
+{ [104 bytes data]
+
+100   115  100   104  100    11    106     11  0:00:01 --:--:--  0:00:01   117
+* Connection #0 to host 34.67.183.68 left intact
+{ [105 bytes data]
+
+100   116  100   105  100    11    107     11  0:00:01 --:--:--  0:00:01   118
+* Connection #0 to host 34.67.183.68 left intact
+{ [105 bytes data]
+
+100   116  100   105  100    11    107     11  0:00:01 --:--:--  0:00:01   118
+{ [105 bytes data]
+
+* Connection #0 to host 34.67.183.68 left intact
+100   116  100   105  100    11    107     11  0:00:01 --:--:--  0:00:01   118
+* Connection #0 to host 34.67.183.68 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,SNB 35.223.136.14:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,AMH 35.223.136.14:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,RWU 35.223.136.14:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,ZSP 35.223.136.14:8080/searchipn
+*   Trying 35.223.136.14:8080...
+*   Trying 35.223.136.14:8080...
+*   Trying 35.223.136.14:8080...
+*   Trying 35.223.136.14:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.223.136.14 (35.223.136.14) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.223.136.14 (35.223.136.14) port 8080 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.223.136.14 (35.223.136.14) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 35.223.136.14 (35.223.136.14) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> POST /searchipn HTTP/1.1
+> Host: 35.223.136.14:8080
+> POST /searchipn HTTP/1.1
+> User-Agent: curl/7.74.0
+> Host: 35.223.136.14:8080
+> User-Agent: curl/7.74.0
+> Host: 35.223.136.14:8080
+> Accept: */*
+> X-Debug:true
+> Accept: */*
+> Host: 35.223.136.14:8080
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> User-Agent: curl/7.74.0
+* upload completely sent off: 11 out of 11 bytes
+> Content-Length: 11
+> User-Agent: curl/7.74.0
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+> Accept: */*
+* upload completely sent off: 11 out of 11 bytes
+> Accept: */*
+> X-Debug:true
+> X-Debug:true
+> Content-Length: 11
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+> Content-Type: application/x-www-form-urlencoded
+} [11 bytes data]
+> 
+* upload completely sent off: 11 out of 11 bytes
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+
+
+
+
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:09 GMT
+< X-debug-info: La operacion tomo 458686259 nanosegundos
+< Content-length: 104
+< 
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:09 GMT
+< X-debug-info: La operacion tomo 451135199 nanosegundos
+< Content-length: 104
+< 
+100    11    0     0  100    11      0     55 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:09 GMT
+< X-debug-info: La operacion tomo 451745515 nanosegundos
+< Content-length: 104
+< 
+{ [104 bytes data]
+
+100   115  100   104  100    11    138     14 --:--:-- --:--:-- --:--:--   152
+* Connection #0 to host 35.223.136.14 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    137     14 --:--:-- --:--:-- --:--:--   151
+* Connection #0 to host 35.223.136.14 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    137     14 --:--:-- --:--:-- --:--:--   151
+* Connection #0 to host 35.223.136.14 left intact
+100    11    0     0  100    11      0     54 --:--:-- --:--:-- --:--:--    54* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:09 GMT
+< X-debug-info: La operacion tomo 440193332 nanosegundos
+< Content-length: 104
+< 
+{ [104 bytes data]
+
+100   115  100   104  100    11    124     13 --:--:-- --:--:-- --:--:--   137
+* Connection #0 to host 35.223.136.14 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  javac Cliente.java && java Cliente
+curl -v --header X-Debug:true --data 1757600,JXG 34.135.168.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,SMA 34.135.168.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,ZCU 34.135.168.155:8080/searchipn
+curl -v --header X-Debug:true --data 1757600,JBK 34.135.168.155:8080/searchipn
+*   Trying 34.135.168.155:8080...
+*   Trying 34.135.168.155:8080...
+*   Trying 34.135.168.155:8080...
+*   Trying 34.135.168.155:8080...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+
+                                 Dload  Upload   Total   Spent    Left  Speed
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.135.168.155 (34.135.168.155) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> Host: 34.135.168.155:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.135.168.155 (34.135.168.155) port 8080 (#0)
+> POST /searchipn HTTP/1.1
+> Host: 34.135.168.155:8080
+> User-Agent: curl/7.74.0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.135.168.155 (34.135.168.155) port 8080 (#0)
+> Accept: */*
+> X-Debug:true
+> Content-Length: 11
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 34.135.168.155 (34.135.168.155) port 8080 (#0)
+> Content-Type: application/x-www-form-urlencoded
+> POST /searchipn HTTP/1.1
+> 
+} [11 bytes data]
+> POST /searchipn HTTP/1.1
+* upload completely sent off: 11 out of 11 bytes
+> Host: 34.135.168.155:8080
+> User-Agent: curl/7.74.0
+> Accept: */*
+> X-Debug:true
+> Host: 34.135.168.155:8080
+> Content-Length: 11
+> User-Agent: curl/7.74.0
+> Content-Type: application/x-www-form-urlencoded
+> Accept: */*
+> 
+> X-Debug:true
+} [11 bytes data]
+> Content-Length: 11
+* upload completely sent off: 11 out of 11 bytes
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [11 bytes data]
+* upload completely sent off: 11 out of 11 bytes
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:36 GMT
+< X-debug-info: La operacion tomo 302065996 nanosegundos
+< Content-length: 105
+< 
+* Mark bundle as not supporting multiuse
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:36 GMT
+< Date: Mon, 28 Mar 2022 05:13:36 GMT
+< X-debug-info: La operacion tomo 298831551 nanosegundos
+< X-debug-info: La operacion tomo 299006465 nanosegundos
+< Content-length: 104
+< 
+< Content-length: 105
+< 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 28 Mar 2022 05:13:36 GMT
+< X-debug-info: La operacion tomo 299068775 nanosegundos
+< Content-length: 104
+< 
+{ [105 bytes data]
+
+100   116  100   105  100    11    183     19 --:--:-- --:--:-- --:--:--   202
+* Connection #0 to host 34.135.168.155 left intact
+{ [105 bytes data]
+
+100   116  100   105  100    11    182     19 --:--:-- --:--:-- --:--:--   202
+{ [104 bytes data]
+
+* Connection #0 to host 34.135.168.155 left intact
+100   115  100   104  100    11    181     19 --:--:-- --:--:-- --:--:--   200
+* Connection #0 to host 34.135.168.155 left intact
+{ [104 bytes data]
+
+100   115  100   104  100    11    179     19 --:--:-- --:--:-- --:--:--   198
+* Connection #0 to host 34.135.168.155 left intact
+
+ paul  paul-pc  ../Distribuidos/Clase20  
