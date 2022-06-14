@@ -118,6 +118,7 @@ public class ProcessServer {
 
     private int getWordFreq(String bookTitle, String word) {
         try {
+            word = word.toLowerCase();
             Map<String, String> params = new HashMap<String, String>();
             params.put("bookTile", bookTitle);
             params.put("word", word);
@@ -161,6 +162,7 @@ public class ProcessServer {
 
     private double getWordItf(String bookTitle, String word) {
         try {
+            word = word.toLowerCase();
             String countBooksCmd = "ls ./books/ | wc -l";
             int totalBooks = Integer.valueOf(Utils.execCmd(countBooksCmd).readLine());
 

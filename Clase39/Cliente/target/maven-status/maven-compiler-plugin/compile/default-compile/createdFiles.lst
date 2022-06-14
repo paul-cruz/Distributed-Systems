@@ -1,8 +1,8 @@
 networking/WebClient.class
 networking/WordRegistry.class
-networking/Aggregator.class
 networking/WebServer.class
 networking/SerializationUtils.class
+networking/Aggregator.class
 model/frontend/FrontendSearchRequest.class
 Application.class
 model/frontend/FrontendSearchResponse.class
