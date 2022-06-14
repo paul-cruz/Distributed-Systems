@@ -33,6 +33,7 @@ $( document ).ready(function() {
         };
 
         return JSON.stringify(frontEndRequest);
+        //searchBox = 0;
     }
 
     function onHttpResponse(data, status) {

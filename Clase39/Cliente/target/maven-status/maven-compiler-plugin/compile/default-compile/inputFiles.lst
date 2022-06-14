@@ -1,8 +1,8 @@
-/home/roberto/Descargas/Web/Web/src/main/java/Application.java
-/home/roberto/Descargas/Web/Web/src/main/java/networking/WordRegistry.java
-/home/roberto/Descargas/Web/Web/src/main/java/networking/SerializationUtils.java
-/home/roberto/Descargas/Web/Web/src/main/java/networking/WebServer.java
-/home/roberto/Descargas/Web/Web/src/main/java/model/frontend/FrontendSearchResponse.java
-/home/roberto/Descargas/Web/Web/src/main/java/networking/WebClient.java
-/home/roberto/Descargas/Web/Web/src/main/java/networking/Aggregator.java
-/home/roberto/Descargas/Web/Web/src/main/java/model/frontend/FrontendSearchRequest.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/networking/WebClient.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/networking/WordRegistry.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/networking/Aggregator.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/model/frontend/FrontendSearchResponse.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/Application.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/model/frontend/FrontendSearchRequest.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/networking/SerializationUtils.java
+/home/roberto/Documentos/Programas/Java/Distributed-Systems/Clase39/Cliente/src/main/java/networking/WebServer.java

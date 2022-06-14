@@ -132,9 +132,10 @@ public class WebServer {
             exchange.close();
             return;
         }
-
         try {            
-            FrontendSearchRequest frontendSearchRequest = objectMapper.readValue(exchange.getRequestBody().readAllBytes(), FrontendSearchRequest.class); 
+            FrontendSearchRequest frontendSearchRequest = objectMapper.readValue(exchange.getRequestBody().readAllBytes(), FrontendSearchRequest.class);
+
+            System.out.println("Prueba" + WORKER_ADDRESS_1);
             System.out.println("Los datos recibidos en el servidor web son:" + frontendSearchRequest.getSearchQuery());
             String frase = frontendSearchRequest.getSearchQuery()
                     .replaceAll(" ", "%20");
@@ -143,13 +144,12 @@ public class WebServer {
             Aggregator aggregator = new Aggregator();
             CompletableFuture<List<String>> results = aggregator.sendTasksToWorkers(WORKER_ADDRESS_1);
             List<String> resultados = results.join();
-            //for (int i=0; i<resultados.size(); i++){
-            //    System.out.println(resultados.get(i));
-            //}
             FrontendSearchResponse frontendSearchResponse = new FrontendSearchResponse(resultados);
         
             byte[] responseBytes = objectMapper.writeValueAsBytes(frontendSearchResponse);
             sendResponse(responseBytes, exchange);
+            WORKER_ADDRESS_1 = "http://34.121.124.189:8080/searchBooks?phrase=";
+            System.out.println("Final" + WORKER_ADDRESS_1);
 
         } catch (IOException e) {
             e.printStackTrace();
