@@ -1,4 +1,3 @@
-
 /*
  *  MIT License
  *
@@ -22,6 +21,7 @@
  *  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  *  SOFTWARE.
  */
+package networking;
 
 import java.io.*;
 
@@ -38,7 +38,7 @@ public class SerializationUtils {
             e.printStackTrace();
         }
 
-        return new byte[] {};
+        return new byte[]{};
     }
 
     public static Object deserialize(byte[] data) {

@@ -1,4 +1,3 @@
-
 /*
  *  MIT License
  *
@@ -23,29 +22,35 @@
  *  SOFTWARE.
  */
 
+package networking;
+import networking.WordRegistry;
+
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
-public class Aggregator {
-    private WebClient webClient;
+public class WebClient {
+    private HttpClient client;
 
-    public Aggregator() {
-        this.webClient = new WebClient();
+    public WebClient() {
+        this.client = HttpClient.newBuilder()
+                .version(HttpClient.Version.HTTP_1_1)
+                .build();
     }
 
-    public List<byte[]> sendTasksToWorkers(List<String> workersAddresses, List<PoligonoIrreg> polygons) {
-        CompletableFuture<byte[]>[] futures = new CompletableFuture[workersAddresses.size()];
+    public CompletableFuture<List<String>> sendTask(String url) {
+        HttpRequest request = HttpRequest.newBuilder()
+                .GET()
+                .uri(URI.create(url))
+                .build();
 
-        for (int i = 0; i < workersAddresses.size(); i++) {
-            byte[] serializado = SerializationUtils.serialize(polygons.get(i));
-            String workerAddress = workersAddresses.get(i);
-            futures[i] = webClient.sendTask(workerAddress, serializado);
-        }
-
-        List<byte[]> results = Stream.of(futures).map(CompletableFuture::join).collect(Collectors.toList());
-
-        return results;
+        return client.sendAsync(request, HttpResponse.BodyHandlers.ofByteArray())
+                .thenApply(respuesta -> {
+                    System.out.println(respuesta.body());
+                    return (List<String>) SerializationUtils.deserialize(respuesta.body());
+                });
     }
 }

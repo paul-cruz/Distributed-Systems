@@ -1,4 +1,3 @@
-
 /*
  *  MIT License
  *
@@ -23,33 +22,22 @@
  *  SOFTWARE.
  */
 
-import java.io.*;
+import networking.WebServer;
 
-public class SerializationUtils {
-    public static byte[] serialize(Object object) {
-        ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-        ObjectOutput objectOutput = null;
-        try {
-            objectOutput = new ObjectOutputStream(byteArrayOutputStream);
-            objectOutput.writeObject(object);
-            objectOutput.flush();
-            return byteArrayOutputStream.toByteArray();
-        } catch (IOException e) {
-            e.printStackTrace();
+import java.io.IOException;
+
+public class Application {
+
+    public static void main(String[] args) throws IOException, InterruptedException {
+        int currentServerPort = 9000;
+        if (args.length == 1) {
+            currentServerPort = Integer.parseInt(args[0]);
         }
+        Application application = new Application();
 
-        return new byte[] {};
-    }
+        WebServer webServer = new WebServer(currentServerPort);
+        webServer.startServer();
 
-    public static Object deserialize(byte[] data) {
-        ByteArrayInputStream byteArrayInputStream = new ByteArrayInputStream(data);
-        ObjectInput objectInput = null;
-        try {
-            objectInput = new ObjectInputStream(byteArrayInputStream);
-            return objectInput.readObject();
-        } catch (ClassNotFoundException | IOException e) {
-            e.printStackTrace();
-        }
-        return null;
+        System.out.println("Servidor escuchando en el puerto: " + currentServerPort);
     }
 }
